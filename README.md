@@ -1,3 +1,5 @@
+FLIGHT WIDGET PROJECT
+
 This is a full-stack project built using ReactJS, Axios, Fetch, DataStax, and Express.
 
 Credits
